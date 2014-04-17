@@ -21,5 +21,9 @@ namespace BackgroundTest
             if (_texture != null)
                 spriteBatch.Draw(_texture, _position, Color.White);
         }
+        public void Move(Vector2 distance)
+        {
+            _position += distance;
+        }
     }
 }
