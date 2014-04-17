@@ -65,6 +65,7 @@ namespace BackgroundTest
             //Each layer has it's own sprite. To add more sprites (images), just use the same layer.
             layers[0].SPRITES.Add(new Sprite { Texture = Content.Load<Texture2D>("Assets/ground mountain") });
             layers[1].SPRITES.Add(new Sprite { Texture = Content.Load<Texture2D>("Assets/clouds light") });
+            layers[1].SPRITES.Add(new Sprite { Texture = Content.Load<Texture2D>("Assets/clouds dark") });
             layers[2].SPRITES.Add(new Sprite { Texture = Content.Load<Texture2D>("Assets/forest layer1"), Position = new Vector2(0, 602) });
 
             // TODO: use this.Content to load your game content here
@@ -115,6 +116,7 @@ namespace BackgroundTest
                 this.Exit();
 
             layers[1].SPRITES[0].Move(new Vector2(-10.0f * elapsedTime, 0));
+            layers[1].SPRITES[1].Move(new Vector2(-5.0f * elapsedTime, 0));
 
             // TODO: Add your update logic here
 
