@@ -54,18 +54,18 @@ namespace BackgroundTest
 
             camera = new Camera(GraphicsDevice.Viewport);
 
-            //List of different layered views. 0.0f is furthest back layer.
+            //List of different layered views. Parallax is the speed at which the move compared to the camera. 0.0f means no movement, 1.0f means same speed as camera.
             layers = new List<Layer>
             {
-                new Layer(camera) { Parallax = new Vector2(0.0f, 1.0f) },
-                new Layer(camera) { Parallax = new Vector2(0.1f, 1.0f) },
-                new Layer(camera) { Parallax = new Vector2(0.2f, 1.0f) }
+                new Layer(camera) { Parallax = new Vector2(0.0f, 1.0f) },   //Layers[0]
+                new Layer(camera) { Parallax = new Vector2(0.0f, 1.0f) },   //Layers[1]
+                new Layer(camera) { Parallax = new Vector2(0.1f, 1.0f) }    //Layers[2]
             };
 
             //Each layer has it's own sprite. To add more sprites (images), just use the same layer.
             layers[0].SPRITES.Add(new Sprite { Texture = Content.Load<Texture2D>("Assets/ground mountain") });
-            layers[1].SPRITES.Add(new Sprite { Texture = Content.Load<Texture2D>("Assets/forest layer1"), Position = new Vector2(0, 602) });
-            //layers[2].SPRITES.Add(new Sprite { Texture = Content.Load<Texture2D>("Assets/tree1"), Position = new Vector2(0, 50) });
+            layers[1].SPRITES.Add(new Sprite { Texture = Content.Load<Texture2D>("Assets/clouds light") });
+            layers[2].SPRITES.Add(new Sprite { Texture = Content.Load<Texture2D>("Assets/forest layer1"), Position = new Vector2(0, 602) });
 
             // TODO: use this.Content to load your game content here
         }
@@ -113,6 +113,8 @@ namespace BackgroundTest
 
             if (keyState.IsKeyDown(Keys.Escape))
                 this.Exit();
+
+            layers[1].SPRITES[0].Move(new Vector2(-10.0f * elapsedTime, 0));
 
             // TODO: Add your update logic here
 
