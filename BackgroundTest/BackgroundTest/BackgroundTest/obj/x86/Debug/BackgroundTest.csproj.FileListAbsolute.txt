@@ -44,3 +44,28 @@ C:\Users\Chase\Documents\CSPG 212\FOR CHASE\BackgroundTest\BackgroundTest\Backgr
 C:\Users\Chase\Documents\CSPG 212\FOR CHASE\BackgroundTest\BackgroundTest\BackgroundTest\obj\x86\Debug\BackgroundTest.pdb
 C:\Users\Chase\Documents\CSPG 212\FOR CHASE\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\multiLayer.xnb
 C:\Users\Chase\Documents\CSPG 212\FOR CHASE\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\forest layer1.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\bridge.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\clouds dark.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\clouds light.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\divider block.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\transition mountain png.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree1.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree2.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree3.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree4.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree5.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree6.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree7.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree9.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\water block.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\mountainsketch over.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\plain ground block.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\multiLayer.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\forest layer1.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\ground mountain.xnb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\BackgroundTest.exe
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\BackgroundTest.pdb
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\obj\x86\Debug\BackgroundTest.csprojResolveAssemblyReference.cache
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\obj\x86\Debug\BackgroundTest.exe
+C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\obj\x86\Debug\BackgroundTest.pdb

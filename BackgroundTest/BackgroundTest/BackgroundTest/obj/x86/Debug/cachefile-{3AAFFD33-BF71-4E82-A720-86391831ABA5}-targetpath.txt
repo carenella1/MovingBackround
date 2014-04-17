@@ -16,3 +16,4 @@ Content\Assets\mountainsketch over.xnb
 Content\Assets\plain ground block.xnb
 Content\Assets\multiLayer.xnb
 Content\Assets\forest layer1.xnb
+Content\Assets\ground mountain.xnb
