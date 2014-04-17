@@ -1,0 +1,2 @@
+C:\Users\Jacqulyn\Desktop\BackgroundTest\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\Users\Chase\Documents\CSPG 212\FOR CHASE\BackgroundTest\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
