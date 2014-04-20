@@ -27,7 +27,7 @@ namespace BackgroundTest
         {
             graphics = new GraphicsDeviceManager(this);
             graphics.PreferredBackBufferWidth = 1600;
-            graphics.PreferredBackBufferHeight = 900;
+            graphics.PreferredBackBufferHeight = 1080;
             Content.RootDirectory = "Content";
         }
 
@@ -52,7 +52,7 @@ namespace BackgroundTest
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            camera = new Camera(GraphicsDevice.Viewport);
+            camera = new Camera(GraphicsDevice.Viewport) { Limits = new Rectangle(0, 0, 2019, 1080) };
 
             //List of different layered views. Parallax is the speed at which the move compared to the camera. 0.0f means no movement, 1.0f means same speed as camera.
             layers = new List<Layer>
@@ -91,32 +91,44 @@ namespace BackgroundTest
             float elapsedTime = (float)gameTime.ElapsedGameTime.TotalSeconds;
             keyState = Keyboard.GetState();
 
+            //Move camera.
             if (keyState.IsKeyDown(Keys.W))
-                camera.Move(new Vector2(0.0f, -400.0f * elapsedTime));
+                camera.Move(new Vector2(0.0f, -400.0f * elapsedTime), true);
 
             if (keyState.IsKeyDown(Keys.A))
-                camera.Move(new Vector2(-400.0f * elapsedTime, 0.0f));
+                camera.Move(new Vector2(-400.0f * elapsedTime, 0.0f), true);
 
             if (keyState.IsKeyDown(Keys.S))
-                camera.Move(new Vector2(0.0f, 400.0f * elapsedTime));
+                camera.Move(new Vector2(0.0f, 400.0f * elapsedTime), true);
 
             if (keyState.IsKeyDown(Keys.D))
-                camera.Move(new Vector2(400.0f * elapsedTime, 0.0f));
+                camera.Move(new Vector2(400.0f * elapsedTime, 0.0f), true);
 
+            //Zoom.
             if (keyState.IsKeyDown(Keys.PageUp))
                 camera.Zoom += 0.5f * elapsedTime;
 
             if (keyState.IsKeyDown(Keys.PageDown))
                 camera.Zoom -= 0.5f * elapsedTime;
 
+            //Rotation for fun.
+            if (keyState.IsKeyDown(Keys.Q))
+                camera.Rotation -= 1.5f * elapsedTime;
+
+            if (keyState.IsKeyDown(Keys.E))
+                camera.Rotation += 1.5f * elapsedTime;
+
+            //Reset.
             if (keyState.IsKeyDown(Keys.R))
                 camera.Reset();
 
+            //Exit.
             if (keyState.IsKeyDown(Keys.Escape))
                 this.Exit();
 
-            layers[1].SPRITES[0].Move(new Vector2(-10.0f * elapsedTime, 0));
-            layers[1].SPRITES[1].Move(new Vector2(-5.0f * elapsedTime, 0));
+            //Images on layer can move by itself.
+            layers[1].SPRITES[0].Move(new Vector2(-10.0f * elapsedTime, 0.0f));
+            layers[1].SPRITES[1].Move(new Vector2(-5.0f * elapsedTime, 0.0f));
 
             // TODO: Add your update logic here
 

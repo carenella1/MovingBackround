@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\bridge.xnb</Output>
-      <Time>2014-04-02T20:17:42-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\bridge.xnb</Output>
+      <Time>2014-04-19T15:45:49.1702938-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\clouds dark.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\clouds dark.xnb</Output>
-      <Time>2014-04-16T23:18:43.4970703-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\clouds dark.xnb</Output>
+      <Time>2014-04-19T15:45:49.1772966-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\clouds light.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\clouds light.xnb</Output>
-      <Time>2014-04-16T23:16:15.2109375-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\clouds light.xnb</Output>
+      <Time>2014-04-19T15:45:49.189305-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\divider block.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\divider block.xnb</Output>
-      <Time>2014-04-02T20:17:42-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\divider block.xnb</Output>
+      <Time>2014-04-19T15:45:49.1943085-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\transition mountain png.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\transition mountain png.xnb</Output>
-      <Time>2014-04-02T20:17:42-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\transition mountain png.xnb</Output>
+      <Time>2014-04-19T15:45:49.3704255-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\tree1.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree1.xnb</Output>
-      <Time>2014-04-02T20:17:42-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree1.xnb</Output>
+      <Time>2014-04-19T15:45:49.3774316-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\tree2.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree2.xnb</Output>
-      <Time>2014-04-02T20:17:42-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree2.xnb</Output>
+      <Time>2014-04-19T15:45:49.3814331-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\tree3.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree3.xnb</Output>
-      <Time>2014-04-02T20:17:44-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree3.xnb</Output>
+      <Time>2014-04-19T15:45:49.3874363-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\tree4.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree4.xnb</Output>
-      <Time>2014-04-02T20:17:44-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree4.xnb</Output>
+      <Time>2014-04-19T15:45:49.3904385-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\tree5.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree5.xnb</Output>
-      <Time>2014-04-02T20:17:44-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree5.xnb</Output>
+      <Time>2014-04-19T15:45:49.3924402-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\tree6.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree6.xnb</Output>
-      <Time>2014-04-02T20:17:44-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree6.xnb</Output>
+      <Time>2014-04-19T15:45:49.3964425-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\tree7.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree7.xnb</Output>
-      <Time>2014-04-02T20:17:44-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree7.xnb</Output>
+      <Time>2014-04-19T15:45:49.3994451-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\tree9.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree9.xnb</Output>
-      <Time>2014-04-02T20:17:44-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\tree9.xnb</Output>
+      <Time>2014-04-19T15:45:49.401446-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\water block.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\water block.xnb</Output>
-      <Time>2014-04-02T20:17:44-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\water block.xnb</Output>
+      <Time>2014-04-19T15:45:49.4024465-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\mountainsketch over.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\mountainsketch over.xnb</Output>
-      <Time>2014-04-02T20:17:42-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\mountainsketch over.xnb</Output>
+      <Time>2014-04-19T15:45:49.2463428-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\plain ground block.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\plain ground block.xnb</Output>
-      <Time>2014-04-02T20:17:42-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\plain ground block.xnb</Output>
+      <Time>2014-04-19T15:45:49.3614189-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\multiLayer.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\multiLayer.xnb</Output>
-      <Time>2014-04-13T14:06:50.0236953-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\multiLayer.xnb</Output>
+      <Time>2014-04-19T15:45:49.3594184-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\forest layer1.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\forest layer1.xnb</Output>
-      <Time>2014-04-16T20:11:39.2597656-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\forest layer1.xnb</Output>
+      <Time>2014-04-19T15:45:49.2043148-07:00</Time>
     </Item>
     <Item>
       <Source>Assets\ground mountain.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\ground mountain.xnb</Output>
-      <Time>2014-04-16T20:07:18.2138671-07:00</Time>
+      <Output>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\Assets\ground mountain.xnb</Output>
+      <Time>2014-04-19T15:45:49.2203267-07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -179,10 +179,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTestContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Chase\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jacqulyn\Documents\GitHub\MovingBackround\BackgroundTest\BackgroundTest\BackgroundTest\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -210,8 +210,8 @@
         <Value>2011-09-01T16:22:30-07:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-03-20T08:25:45.703125-07:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-04T15:41:04.5824251-08:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
